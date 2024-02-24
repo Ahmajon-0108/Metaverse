@@ -1,0 +1,300 @@
+@media (max-width:1220px) {
+
+    .top1sec3 {
+        flex-direction: column;
+    }
+
+    .cards1sec3 {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .bottom1sec3 {
+        display: none;
+    }
+}
+
+@media (max-width:1194px) {
+    .section4 .container img {
+        max-width: 1082px;
+        height: 600px;
+    }
+}
+
+@media (max-width:1111px) {
+    .section4 .container img {
+        max-width: 975px;
+        height: 450px;
+    }
+}
+
+@media (max-width:1108px) {
+    .hero__content {
+        flex-direction: column-reverse;
+    }
+
+    .left1sec1 {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .btns {
+        justify-content: center;
+    }
+
+    .reacts1sec1 {
+        justify-content: center;
+
+    }
+}
+
+@media (max-width:957px) {
+    .frame1sec2 {
+        flex-direction: column;
+    }
+
+    .right1sec2 {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .center3 {
+        margin-top: 300px;
+    }
+    .frame1sec2{
+        gap: 0;
+    }
+}
+@media (max-width:935px) {
+    .frame2foot1 p {
+        font-size: 8px;
+        
+    }
+    .frame2foot1 ul li a{
+        font-size: 16px;
+    }
+}
+
+
+
+
+@media (max-width:850px) {
+    .section4 .container img {
+        max-width: 905px;
+        height: 390px;
+    }
+    .frame2foot1{
+        font-size: 10px;
+    }
+}
+
+@media (max-width:745px) {
+    .section4 .container img {
+        max-width: 850px;
+        height: 310px;
+    }
+}
+
+
+
+
+
+
+
+
+@media (max-width:586px) {
+
+    .section4 .container img {
+        max-width: 780px;
+        height: 240px;
+    }
+
+    .right1sec1 img {
+        width: 466px;
+        height: 468px;
+    }
+}
+
+
+
+@media (max-width:555px) {
+    .left1sec2 img {
+        width: auto;
+        height: auto;
+    }
+
+    .left1sec2 img {
+        max-width: 402px;
+        height: 309px;
+    }
+}
+
+
+
+@media (max-width:542px) {
+    .left1sec1 h1 {
+        font-size: 35px;
+
+    }
+
+    .left1sec1 h1 span {
+        font-size: 35px;
+
+    }
+
+    .left1sec1 p {
+        font-size: 15px;
+
+
+    }
+
+
+    .btns button {
+        font-size: 15px;
+
+    }
+
+    .reacts1sec1 .rec1 h4 {
+        font-size: 19px;
+    }
+
+    .reacts1sec1 .rec1 p {
+        font-size: 14px;
+    }
+}
+
+
+@media (max-width:500px) {
+    .right1nav ul img {
+        display: flex;
+    }
+
+    .right1nav ul li {
+        display: none;
+    }
+}
+
+@media (max-width:487px) {
+    .right1sec1 img {
+        width: 366px;
+        height: 368px;
+    }
+    .footer__content{
+        flex-direction: column;
+        text-align: center;
+    }
+
+}
+@media (max-width:465px) {
+    .section4 .container img {
+        max-width: 450px;
+        height: 200px;
+    }
+
+    .center3 h1 {
+        font-size: 25px;
+
+    }
+
+    .center3 span {
+        font-size: 25px;
+
+    }
+
+    .center3 p {
+        font-size: 9px;
+
+    }
+    .orta1foot1{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width:426px) {
+    .left1sec1 h1 {
+        font-size: 30px;
+
+    }
+
+    .left1sec1 h1 span {
+        font-size: 30px;
+
+    }
+
+    .left1sec1 p {
+        font-size: 10px;
+
+    }
+
+    .btns button {
+        font-size: 10px;
+    }
+
+    .reacts1sec1 .rec1 h4 {
+        font-size: 12px;
+    }
+
+    .reacts1sec1 .rec1 p {
+        font-size: 9px;
+    }
+
+    .site-btn2,
+    .site-btn1 {
+        height: 40px;
+    }
+}
+
+
+
+
+
+@media (max-width:395px) {
+
+    .left1sec2 img {
+        max-width: 302px;
+        height: 179px;
+    }
+
+
+
+    .card {
+        max-width: 304px;
+        height: 434px;
+        padding: 20px;
+
+    }
+
+
+
+    .card img {
+        max-width: 280px;
+        height: 197px;
+    }
+
+    .section4 .container img {
+        max-width: 320px;
+        height: 160px;
+    }
+}
+
+
+@media (max-width:387px) {
+    .right1sec1 img {
+        width: 310px;
+        height: 310px;
+    }
+}
+
+@media (max-width:386px) {
+    .left1sec1 h1 {
+        font-size: 25px;
+
+    }
+}
+
+
+
